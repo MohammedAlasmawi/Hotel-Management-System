@@ -26,10 +26,10 @@ This **Hotel Management System** is built using **Laravel Jetstream** for authen
 
 ## 🎨 Frontend & UI
 
-**Laravel Jetstream (Authentication)
-**Bootstrap (Styling & Layout)
-**Blade Templates (Dynamic Views)
-**Tailwind CSS (Custom Styles)
+**Laravel Jetstream (Authentication)**
+**Bootstrap (Styling & Layout)**
+**Blade Templates (Dynamic Views)**
+**Tailwind CSS (Custom Styles)**
 
 ---
 
