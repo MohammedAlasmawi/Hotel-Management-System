@@ -23,9 +23,7 @@ This **Hotel Management System** is built using **Laravel Jetstream** for authen
 
 Here's your README.md file for the Hotel Management System project:
 
-markdown
-Copy
-Edit
+
 # 🏨 Hotel Management System
 
 ## Overview
